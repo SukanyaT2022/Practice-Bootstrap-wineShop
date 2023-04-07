@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fa-bottle-droplet{
+font-size: 30px;
+color: darkred;
+
+}
+
+.targetSearchBox{
+    width: 70%;
+    padding: 3px;
+    text-align: center;
+  
+    
+}
+.targetNavIcon{
+    font-size: 20px;
+}
+.targetmainSearchBox{
+    position: relative;
+   
+
+}
+
+.fa-magnifying-glass{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
